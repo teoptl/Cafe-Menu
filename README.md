@@ -1,6 +1,6 @@
 # Cafe-Menu
 
-<strong>Learn basic CSS by building a <a href="https://teoptl.github.io/CatPhotoApp">cafe menu</a>.</strong>
+<strong>Learn basic CSS by building a <a href="https://teoptl.github.io/Cafe-Menu">cafe menu</a>.</strong>
 
 CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
